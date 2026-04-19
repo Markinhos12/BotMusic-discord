@@ -166,7 +166,7 @@ Este projeto está sob a licença MIT.
 
 ## 👤 Autor
 
-Criado por [Seu Nome]
+Criado por [Markinhos12]
 
 ## 🤝 Contribuições
 
